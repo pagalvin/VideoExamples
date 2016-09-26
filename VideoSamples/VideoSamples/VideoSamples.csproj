@@ -23,11 +23,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app.css" />
+    <Content Include="DoubleYourObjectsWithThisOneWeirdTrick\Doubler.html" />
+    <Content Include="DoubleYourObjectsWithThisOneWeirdTrick\CanonicalReduce.html" />
     <Content Include="index.html" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="app.ts" />
+    <TypeScriptCompile Include="DoubleYourObjectsWithThisOneWeirdTrick\CanonicalReduce.ts" />
+    <TypeScriptCompile Include="DoubleYourObjectsWithThisOneWeirdTrick\Doubler.ts" />
   </ItemGroup>
   <ItemGroup>
     <None Include="web.Debug.config">
